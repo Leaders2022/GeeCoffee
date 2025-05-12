@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314884822376",
+    "project_id": "theleader123",
+    "storage_bucket": "theleader123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314884822376:android:c1d914390b1f937e9f72dd",
+        "android_client_info": {
+          "package_name": "com.george.geecoffee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdJa35_ogQM_UQ5wuXHNLAQW5Mrr6WRgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

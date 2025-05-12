@@ -50,14 +50,14 @@ fun HomeScreen(navController: NavHostController) {
 
 
         Button(onClick = {
-           // navController.navigate()
+           navController.navigate("order_screen")
         },modifier = Modifier.fillMaxWidth()) {
             Text(text = "Order Here")
         }
         Spacer(modifier = Modifier.height(100.dp))
 
         Button(onClick = {
-          //  navController.navigate(#)
+           navController.navigate("manage_orders_screen")
         },modifier = Modifier.fillMaxWidth()) {
             Text(text = "Manage Orders")
         }
